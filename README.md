@@ -2,7 +2,7 @@
 Solution for Java-For-Android is here:-
 
 -> Week-1
-{shorturl.at/ntAFY}
+[link]{shorturl.at/ntAFY}
 
 [Week-2]()
 
