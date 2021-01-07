@@ -1,6 +1,6 @@
 # Java-for-Android-Coursera-
 
-Week-1()
+Week-1(shorturl.at/ntAFY)
 
 
 Week-2()
